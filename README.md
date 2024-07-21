@@ -1,7 +1,9 @@
+[ReadMe - JP](https://github.com/WooChan-Noh/AngryBird/blob/main/ReadMeJP.md)    
+[ReadMe - ENG](https://github.com/WooChan-Noh/AngryBird/blob/main/ReadMeEng.md)
 # AngryBird
 멋쟁이사자처럼 유니티 게임스쿨 1기 첫 번째 포트폴리오 : 앵그리버드 (제작 기간 : 4일)
 ## 시연 영상
-[![Video Label](https://img.youtube.com/vi/Cj3ggTdfJUs/0.jpg)](https://youtube.be/'Cj3ggTdfJUs')
+[![Video Label](https://img.youtube.com/vi/Cj3ggTdfJUs/0.jpg)](https://www.youtube.com/watch?v=Cj3ggTdfJUs)
 ## 포트폴리오 제작 시 세운 목표
 - 유니티에 다시 익숙해지기
 - 수업 시 배운 것 적용
