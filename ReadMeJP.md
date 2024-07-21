@@ -1,7 +1,7 @@
 # AngryBird
 Unityゲームスクール1期のポートフォリオ : アングリーバード (制作期間 : 4日間)
 ## デモ映像
-[![Video Label](https://img.youtube.com/vi/Cj3ggTdfJUs/0.jpg)](https://youtube.be/Cj3ggTdfJUs)
+[![Video Label](https://img.youtube.com/vi/Cj3ggTdfJUs/0.jpg)](https://www.youtube.com/watch?v=Cj3ggTdfJUs)
 ## ポートフォリオ作成時に立てた目標
 - Unityに再び慣れる
 - 授業で学んだことを適用する
